@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proje_19.01.iml" filepath="$PROJECT_DIR$/.idea/modules/proje_19.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/proje_19.01.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/proje_19.01.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/proje_19.01.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/proje_19.01.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/proje_19.01.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/proje_19.01.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/proje_19.01.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/proje_19.01.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/proje_19.01.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/proje_19.01.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/proje_19.01.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/proje_19.01.desktop.test.iml" />
+    </modules>
+  </component>
+</project>
